@@ -1,0 +1,2674 @@
+[
+  {
+    "weight": 1,
+    "word": "able"
+  },
+  {
+    "weight": 1,
+    "word": "abundant"
+  },
+  {
+    "weight": 1,
+    "word": "accepting"
+  },
+  {
+    "weight": 1,
+    "word": "accomplished"
+  },
+  {
+    "weight": 1,
+    "word": "accurate"
+  },
+  {
+    "weight": 1,
+    "word": "achiever"
+  },
+  {
+    "weight": 1,
+    "word": "active"
+  },
+  {
+    "weight": 1,
+    "word": "adaptable"
+  },
+  {
+    "weight": 1,
+    "word": "adept"
+  },
+  {
+    "weight": 1,
+    "word": "admirable"
+  },
+  {
+    "weight": 1,
+    "word": "admired"
+  },
+  {
+    "weight": 1,
+    "word": "adoptive"
+  },
+  {
+    "weight": 1,
+    "word": "adorable"
+  },
+  {
+    "weight": 1,
+    "word": "adventurous"
+  },
+  {
+    "weight": 1,
+    "word": "affection"
+  },
+  {
+    "weight": 1,
+    "word": "affectionate"
+  },
+  {
+    "weight": 1,
+    "word": "affluent"
+  },
+  {
+    "weight": 1,
+    "word": "agreeable"
+  },
+  {
+    "weight": 1,
+    "word": "alert"
+  },
+  {
+    "weight": 1,
+    "word": "aligned"
+  },
+  {
+    "weight": 1,
+    "word": "alive"
+  },
+  {
+    "weight": 1,
+    "word": "amazing"
+  },
+  {
+    "weight": 1,
+    "word": "ambitious"
+  },
+  {
+    "weight": 1,
+    "word": "amusement"
+  },
+  {
+    "weight": 1,
+    "word": "analytical"
+  },
+  {
+    "weight": 1,
+    "word": "appealing"
+  },
+  {
+    "weight": 1,
+    "word": "appreciate"
+  },
+  {
+    "weight": 1,
+    "word": "articulate"
+  },
+  {
+    "weight": 1,
+    "word": "artistic"
+  },
+  {
+    "weight": 1,
+    "word": "assertive"
+  },
+  {
+    "weight": 1,
+    "word": "astounding"
+  },
+  {
+    "weight": 1,
+    "word": "astute"
+  },
+  {
+    "weight": 1,
+    "word": "attentive"
+  },
+  {
+    "weight": 1,
+    "word": "attractive"
+  },
+  {
+    "weight": 1,
+    "word": "auspicious"
+  },
+  {
+    "weight": 1,
+    "word": "authentic"
+  },
+  {
+    "weight": 1,
+    "word": "awake"
+  },
+  {
+    "weight": 1,
+    "word": "aware"
+  },
+  {
+    "weight": 1,
+    "word": "awesome"
+  },
+  {
+    "weight": 1,
+    "word": "balanced"
+  },
+  {
+    "weight": 1,
+    "word": "beaming"
+  },
+  {
+    "weight": 1,
+    "word": "beautiful"
+  },
+  {
+    "weight": 1,
+    "word": "best"
+  },
+  {
+    "weight": 1,
+    "word": "blessed"
+  },
+  {
+    "weight": 1,
+    "word": "bliss"
+  },
+  {
+    "weight": 1,
+    "word": "blithesome"
+  },
+  {
+    "weight": 1,
+    "word": "bold"
+  },
+  {
+    "weight": 1,
+    "word": "bright"
+  },
+  {
+    "weight": 1,
+    "word": "brilliant"
+  },
+  {
+    "weight": 1,
+    "word": "brisk"
+  },
+  {
+    "weight": 1,
+    "word": "broad-minded"
+  },
+  {
+    "weight": 1,
+    "word": "buoyant"
+  },
+  {
+    "weight": 1,
+    "word": "calm"
+  },
+  {
+    "weight": 1,
+    "word": "candid"
+  },
+  {
+    "weight": 1,
+    "word": "capable"
+  },
+  {
+    "weight": 1,
+    "word": "careful"
+  },
+  {
+    "weight": 1,
+    "word": "caring"
+  },
+  {
+    "weight": 1,
+    "word": "cautious"
+  },
+  {
+    "weight": 1,
+    "word": "centered"
+  },
+  {
+    "weight": 1,
+    "word": "certain"
+  },
+  {
+    "weight": 1,
+    "word": "changeable"
+  },
+  {
+    "weight": 1,
+    "word": "charming"
+  },
+  {
+    "weight": 1,
+    "word": "cheerful"
+  },
+  {
+    "weight": 1,
+    "word": "childlike"
+  },
+  {
+    "weight": 1,
+    "word": "clear"
+  },
+  {
+    "weight": 1,
+    "word": "clear-thinking"
+  },
+  {
+    "weight": 1,
+    "word": "clever"
+  },
+  {
+    "weight": 1,
+    "word": "committed"
+  },
+  {
+    "weight": 1,
+    "word": "communicative"
+  },
+  {
+    "weight": 1,
+    "word": "compassionate"
+  },
+  {
+    "weight": 1,
+    "word": "competent"
+  },
+  {
+    "weight": 1,
+    "word": "competitive"
+  },
+  {
+    "weight": 1,
+    "word": "complete"
+  },
+  {
+    "weight": 1,
+    "word": "confident"
+  },
+  {
+    "weight": 1,
+    "word": "connected"
+  },
+  {
+    "weight": 1,
+    "word": "conscientious"
+  },
+  {
+    "weight": 1,
+    "word": "conscious"
+  },
+  {
+    "weight": 1,
+    "word": "consciousness"
+  },
+  {
+    "weight": 1,
+    "word": "considerate"
+  },
+  {
+    "weight": 1,
+    "word": "consistent"
+  },
+  {
+    "weight": 1,
+    "word": "constructive"
+  },
+  {
+    "weight": 1,
+    "word": "content"
+  },
+  {
+    "weight": 1,
+    "word": "controversial"
+  },
+  {
+    "weight": 1,
+    "word": "convenient"
+  },
+  {
+    "weight": 1,
+    "word": "cooperative"
+  },
+  {
+    "weight": 1,
+    "word": "courage"
+  },
+  {
+    "weight": 1,
+    "word": "courageous"
+  },
+  {
+    "weight": 1,
+    "word": "creative"
+  },
+  {
+    "weight": 1,
+    "word": "curious"
+  },
+  {
+    "weight": 1,
+    "word": "customary"
+  },
+  {
+    "weight": 1,
+    "word": "daring"
+  },
+  {
+    "weight": 1,
+    "word": "dazzling"
+  },
+  {
+    "weight": 1,
+    "word": "delicious"
+  },
+  {
+    "weight": 1,
+    "word": "delight"
+  },
+  {
+    "weight": 1,
+    "word": "delightful"
+  },
+  {
+    "weight": 1,
+    "word": "dependable"
+  },
+  {
+    "weight": 1,
+    "word": "desirable"
+  },
+  {
+    "weight": 1,
+    "word": "determined"
+  },
+  {
+    "weight": 1,
+    "word": "devoted"
+  },
+  {
+    "weight": 1,
+    "word": "diligent"
+  },
+  {
+    "weight": 1,
+    "word": "diplomatic"
+  },
+  {
+    "weight": 1,
+    "word": "direct"
+  },
+  {
+    "weight": 1,
+    "word": "discerning"
+  },
+  {
+    "weight": 1,
+    "word": "discover"
+  },
+  {
+    "weight": 1,
+    "word": "dynamic"
+  },
+  {
+    "weight": 1,
+    "word": "eager"
+  },
+  {
+    "weight": 1,
+    "word": "easy"
+  },
+  {
+    "weight": 1,
+    "word": "easy"
+  },
+  {
+    "weight": 1,
+    "word": "going"
+  },
+  {
+    "weight": 1,
+    "word": "efficient"
+  },
+  {
+    "weight": 1,
+    "word": "effortless"
+  },
+  {
+    "weight": 1,
+    "word": "elation"
+  },
+  {
+    "weight": 1,
+    "word": "elegant"
+  },
+  {
+    "weight": 1,
+    "word": "eloquent"
+  },
+  {
+    "weight": 1,
+    "word": "emotional"
+  },
+  {
+    "weight": 1,
+    "word": "empathetic"
+  },
+  {
+    "weight": 1,
+    "word": "empathy"
+  },
+  {
+    "weight": 1,
+    "word": "endless"
+  },
+  {
+    "weight": 1,
+    "word": "energetic"
+  },
+  {
+    "weight": 1,
+    "word": "engaging"
+  },
+  {
+    "weight": 1,
+    "word": "enhancer"
+  },
+  {
+    "weight": 1,
+    "word": "enormous"
+  },
+  {
+    "weight": 1,
+    "word": "enterprise"
+  },
+  {
+    "weight": 1,
+    "word": "enterprising"
+  },
+  {
+    "weight": 1,
+    "word": "enthusiastic"
+  },
+  {
+    "weight": 1,
+    "word": "enticing"
+  },
+  {
+    "weight": 1,
+    "word": "excellent"
+  },
+  {
+    "weight": 1,
+    "word": "excellent"
+  },
+  {
+    "weight": 1,
+    "word": "exceptional"
+  },
+  {
+    "weight": 1,
+    "word": "excitement"
+  },
+  {
+    "weight": 1,
+    "word": "exciting"
+  },
+  {
+    "weight": 1,
+    "word": "experienced"
+  },
+  {
+    "weight": 1,
+    "word": "exquisite"
+  },
+  {
+    "weight": 1,
+    "word": "fabulous"
+  },
+  {
+    "weight": 1,
+    "word": "fabulous"
+  },
+  {
+    "weight": 1,
+    "word": "facilitator"
+  },
+  {
+    "weight": 1,
+    "word": "fair"
+  },
+  {
+    "weight": 1,
+    "word": "fair-minded"
+  },
+  {
+    "weight": 1,
+    "word": "faithful"
+  },
+  {
+    "weight": 1,
+    "word": "fantastic"
+  },
+  {
+    "weight": 1,
+    "word": "farewell"
+  },
+  {
+    "weight": 1,
+    "word": "fascinating"
+  },
+  {
+    "weight": 1,
+    "word": "fast"
+  },
+  {
+    "weight": 1,
+    "word": "favorable"
+  },
+  {
+    "weight": 1,
+    "word": "fine"
+  },
+  {
+    "weight": 1,
+    "word": "fit"
+  },
+  {
+    "weight": 1,
+    "word": "flattering"
+  },
+  {
+    "weight": 1,
+    "word": "flexible"
+  },
+  {
+    "weight": 1,
+    "word": "flourishing"
+  },
+  {
+    "weight": 1,
+    "word": "focused"
+  },
+  {
+    "weight": 1,
+    "word": "forgiving"
+  },
+  {
+    "weight": 1,
+    "word": "fortuitous"
+  },
+  {
+    "weight": 1,
+    "word": "fortunate"
+  },
+  {
+    "weight": 1,
+    "word": "free"
+  },
+  {
+    "weight": 1,
+    "word": "friendliness"
+  },
+  {
+    "weight": 1,
+    "word": "friendly"
+  },
+  {
+    "weight": 1,
+    "word": "fulfilled"
+  },
+  {
+    "weight": 1,
+    "word": "fun"
+  },
+  {
+    "weight": 1,
+    "word": "funny"
+  },
+  {
+    "weight": 1,
+    "word": "generous"
+  },
+  {
+    "weight": 1,
+    "word": "gentle"
+  },
+  {
+    "weight": 1,
+    "word": "genuine"
+  },
+  {
+    "weight": 1,
+    "word": "gifted"
+  },
+  {
+    "weight": 1,
+    "word": "glad"
+  },
+  {
+    "weight": 1,
+    "word": "glorious"
+  },
+  {
+    "weight": 1,
+    "word": "glowing"
+  },
+  {
+    "weight": 1,
+    "word": "good"
+  },
+  {
+    "weight": 1,
+    "word": "listener"
+  },
+  {
+    "weight": 1,
+    "word": "natural"
+  },
+  {
+    "weight": 1,
+    "word": "good-looking"
+  },
+  {
+    "weight": 1,
+    "word": "gorgeous"
+  },
+  {
+    "weight": 1,
+    "word": "graceful"
+  },
+  {
+    "weight": 1,
+    "word": "gracious"
+  },
+  {
+    "weight": 1,
+    "word": "grand"
+  },
+  {
+    "weight": 1,
+    "word": "great"
+  },
+  {
+    "weight": 1,
+    "word": "great"
+  },
+  {
+    "weight": 1,
+    "word": "green"
+  },
+  {
+    "weight": 1,
+    "word": "growing"
+  },
+  {
+    "weight": 1,
+    "word": "handsome"
+  },
+  {
+    "weight": 1,
+    "word": "happiness"
+  },
+  {
+    "weight": 1,
+    "word": "happy"
+  },
+  {
+    "weight": 1,
+    "word": "hard"
+  },
+  {
+    "weight": 1,
+    "word": "worker"
+  },
+  {
+    "weight": 1,
+    "word": "hardworking"
+  },
+  {
+    "weight": 1,
+    "word": "hardy"
+  },
+  {
+    "weight": 1,
+    "word": "harmonious"
+  },
+  {
+    "weight": 1,
+    "word": "healed"
+  },
+  {
+    "weight": 1,
+    "word": "healthy"
+  },
+  {
+    "weight": 1,
+    "word": "helpful"
+  },
+  {
+    "weight": 1,
+    "word": "honest"
+  },
+  {
+    "weight": 1,
+    "word": "hope"
+  },
+  {
+    "weight": 1,
+    "word": "hopeful"
+  },
+  {
+    "weight": 1,
+    "word": "humorous"
+  },
+  {
+    "weight": 1,
+    "word": "ideal"
+  },
+  {
+    "weight": 1,
+    "word": "idealistic"
+  },
+  {
+    "weight": 1,
+    "word": "imaginative"
+  },
+  {
+    "weight": 1,
+    "word": "impressive"
+  },
+  {
+    "weight": 1,
+    "word": "incredible"
+  },
+  {
+    "weight": 1,
+    "word": "incredible"
+  },
+  {
+    "weight": 1,
+    "word": "independent"
+  },
+  {
+    "weight": 1,
+    "word": "individual"
+  },
+  {
+    "weight": 1,
+    "word": "individualistic"
+  },
+  {
+    "weight": 1,
+    "word": "industrious"
+  },
+  {
+    "weight": 1,
+    "word": "ineffable"
+  },
+  {
+    "weight": 1,
+    "word": "informal"
+  },
+  {
+    "weight": 1,
+    "word": "ingenious"
+  },
+  {
+    "weight": 1,
+    "word": "initiator"
+  },
+  {
+    "weight": 1,
+    "word": "innovative"
+  },
+  {
+    "weight": 1,
+    "word": "insightful"
+  },
+  {
+    "weight": 1,
+    "word": "inspired"
+  },
+  {
+    "weight": 1,
+    "word": "intelligent"
+  },
+  {
+    "weight": 1,
+    "word": "intense"
+  },
+  {
+    "weight": 1,
+    "word": "interest"
+  },
+  {
+    "weight": 1,
+    "word": "interested"
+  },
+  {
+    "weight": 1,
+    "word": "interesting"
+  },
+  {
+    "weight": 1,
+    "word": "intuitive"
+  },
+  {
+    "weight": 1,
+    "word": "inventive"
+  },
+  {
+    "weight": 1,
+    "word": "invincible"
+  },
+  {
+    "weight": 1,
+    "word": "inviting"
+  },
+  {
+    "weight": 1,
+    "word": "irresistible"
+  },
+  {
+    "weight": 1,
+    "word": "joy"
+  },
+  {
+    "weight": 1,
+    "word": "joyous"
+  },
+  {
+    "weight": 1,
+    "word": "judicious"
+  },
+  {
+    "weight": 1,
+    "word": "keen"
+  },
+  {
+    "weight": 1,
+    "word": "kind"
+  },
+  {
+    "weight": 1,
+    "word": "knowing"
+  },
+  {
+    "weight": 1,
+    "word": "knowledgeable"
+  },
+  {
+    "weight": 1,
+    "word": "leader"
+  },
+  {
+    "weight": 1,
+    "word": "learning"
+  },
+  {
+    "weight": 1,
+    "word": "leisurely"
+  },
+  {
+    "weight": 1,
+    "word": "light-hearted"
+  },
+  {
+    "weight": 1,
+    "word": "likable"
+  },
+  {
+    "weight": 1,
+    "word": "limitless"
+  },
+  {
+    "weight": 1,
+    "word": "literate"
+  },
+  {
+    "weight": 1,
+    "word": "lively"
+  },
+  {
+    "weight": 1,
+    "word": "logical"
+  },
+  {
+    "weight": 1,
+    "word": "lovable"
+  },
+  {
+    "weight": 1,
+    "word": "love"
+  },
+  {
+    "weight": 1,
+    "word": "loving"
+  },
+  {
+    "weight": 1,
+    "word": "loyal"
+  },
+  {
+    "weight": 1,
+    "word": "lucky"
+  },
+  {
+    "weight": 1,
+    "word": "luminous"
+  },
+  {
+    "weight": 1,
+    "word": "magical"
+  },
+  {
+    "weight": 1,
+    "word": "magnificent"
+  },
+  {
+    "weight": 1,
+    "word": "marvellous"
+  },
+  {
+    "weight": 1,
+    "word": "masterful"
+  },
+  {
+    "weight": 1,
+    "word": "mature"
+  },
+  {
+    "weight": 1,
+    "word": "mediator"
+  },
+  {
+    "weight": 1,
+    "word": "meditative"
+  },
+  {
+    "weight": 1,
+    "word": "merry"
+  },
+  {
+    "weight": 1,
+    "word": "methodical"
+  },
+  {
+    "weight": 1,
+    "word": "mighty"
+  },
+  {
+    "weight": 1,
+    "word": "mild"
+  },
+  {
+    "weight": 1,
+    "word": "miraculous"
+  },
+  {
+    "weight": 1,
+    "word": "mirthful"
+  },
+  {
+    "weight": 1,
+    "word": "moderate"
+  },
+  {
+    "weight": 1,
+    "word": "modest"
+  },
+  {
+    "weight": 1,
+    "word": "motivated"
+  },
+  {
+    "weight": 1,
+    "word": "natural"
+  },
+  {
+    "weight": 1,
+    "word": "neat"
+  },
+  {
+    "weight": 1,
+    "word": "nice"
+  },
+  {
+    "weight": 1,
+    "word": "noble"
+  },
+  {
+    "weight": 1,
+    "word": "nonjudgmental"
+  },
+  {
+    "weight": 1,
+    "word": "nurture"
+  },
+  {
+    "weight": 1,
+    "word": "objective"
+  },
+  {
+    "weight": 1,
+    "word": "open-minded"
+  },
+  {
+    "weight": 1,
+    "word": "optimistic"
+  },
+  {
+    "weight": 1,
+    "word": "organized"
+  },
+  {
+    "weight": 1,
+    "word": "original"
+  },
+  {
+    "weight": 1,
+    "word": "outgoing"
+  },
+  {
+    "weight": 1,
+    "word": "outstanding"
+  },
+  {
+    "weight": 1,
+    "word": "outstanding"
+  },
+  {
+    "weight": 1,
+    "word": "particular"
+  },
+  {
+    "weight": 1,
+    "word": "passionate"
+  },
+  {
+    "weight": 1,
+    "word": "patient"
+  },
+  {
+    "weight": 1,
+    "word": "peaceful"
+  },
+  {
+    "weight": 1,
+    "word": "perceptive"
+  },
+  {
+    "weight": 1,
+    "word": "perfect"
+  },
+  {
+    "weight": 1,
+    "word": "perfect"
+  },
+  {
+    "weight": 1,
+    "word": "persevering"
+  },
+  {
+    "weight": 1,
+    "word": "persistent"
+  },
+  {
+    "weight": 1,
+    "word": "personable"
+  },
+  {
+    "weight": 1,
+    "word": "persuasive"
+  },
+  {
+    "weight": 1,
+    "word": "playful"
+  },
+  {
+    "weight": 1,
+    "word": "pleasant"
+  },
+  {
+    "weight": 1,
+    "word": "pleasing"
+  },
+  {
+    "weight": 1,
+    "word": "pleasure"
+  },
+  {
+    "weight": 1,
+    "word": "plentiful"
+  },
+  {
+    "weight": 1,
+    "word": "polite"
+  },
+  {
+    "weight": 1,
+    "word": "politeness"
+  },
+  {
+    "weight": 1,
+    "word": "political"
+  },
+  {
+    "weight": 1,
+    "word": "positive"
+  },
+  {
+    "weight": 1,
+    "word": "powerful"
+  },
+  {
+    "weight": 1,
+    "word": "practical"
+  },
+  {
+    "weight": 1,
+    "word": "precious"
+  },
+  {
+    "weight": 1,
+    "word": "precise"
+  },
+  {
+    "weight": 1,
+    "word": "prepared"
+  },
+  {
+    "weight": 1,
+    "word": "pride"
+  },
+  {
+    "weight": 1,
+    "word": "proactive"
+  },
+  {
+    "weight": 1,
+    "word": "productive"
+  },
+  {
+    "weight": 1,
+    "word": "professional"
+  },
+  {
+    "weight": 1,
+    "word": "profound"
+  },
+  {
+    "weight": 1,
+    "word": "progressive"
+  },
+  {
+    "weight": 1,
+    "word": "prompt"
+  },
+  {
+    "weight": 1,
+    "word": "propitious"
+  },
+  {
+    "weight": 1,
+    "word": "prosperous"
+  },
+  {
+    "weight": 1,
+    "word": "proud"
+  },
+  {
+    "weight": 1,
+    "word": "punctual"
+  },
+  {
+    "weight": 1,
+    "word": "qualified"
+  },
+  {
+    "weight": 1,
+    "word": "quality"
+  },
+  {
+    "weight": 1,
+    "word": "quick"
+  },
+  {
+    "weight": 1,
+    "word": "quiet"
+  },
+  {
+    "weight": 1,
+    "word": "quirky"
+  },
+  {
+    "weight": 1,
+    "word": "quixotic"
+  },
+  {
+    "weight": 1,
+    "word": "racy"
+  },
+  {
+    "weight": 1,
+    "word": "radiant"
+  },
+  {
+    "weight": 1,
+    "word": "rational"
+  },
+  {
+    "weight": 1,
+    "word": "realistic"
+  },
+  {
+    "weight": 1,
+    "word": "reasonable"
+  },
+  {
+    "weight": 1,
+    "word": "rebellious"
+  },
+  {
+    "weight": 1,
+    "word": "refined"
+  },
+  {
+    "weight": 1,
+    "word": "reflective"
+  },
+  {
+    "weight": 1,
+    "word": "refreshing"
+  },
+  {
+    "weight": 1,
+    "word": "relaxed"
+  },
+  {
+    "weight": 1,
+    "word": "relaxing"
+  },
+  {
+    "weight": 1,
+    "word": "reliable"
+  },
+  {
+    "weight": 1,
+    "word": "relieved"
+  },
+  {
+    "weight": 1,
+    "word": "remarkable"
+  },
+  {
+    "weight": 1,
+    "word": "remarkable"
+  },
+  {
+    "weight": 1,
+    "word": "resolute"
+  },
+  {
+    "weight": 1,
+    "word": "resourceful"
+  },
+  {
+    "weight": 1,
+    "word": "respected"
+  },
+  {
+    "weight": 1,
+    "word": "respectful"
+  },
+  {
+    "weight": 1,
+    "word": "responsible"
+  },
+  {
+    "weight": 1,
+    "word": "result"
+  },
+  {
+    "weight": 1,
+    "word": "resultant"
+  },
+  {
+    "weight": 1,
+    "word": "rewarding"
+  },
+  {
+    "weight": 1,
+    "word": "robust"
+  },
+  {
+    "weight": 1,
+    "word": "safe"
+  },
+  {
+    "weight": 1,
+    "word": "satisfaction"
+  },
+  {
+    "weight": 1,
+    "word": "satisfied"
+  },
+  {
+    "weight": 1,
+    "word": "secure"
+  },
+  {
+    "weight": 1,
+    "word": "seductive"
+  },
+  {
+    "weight": 1,
+    "word": "self-disciplined"
+  },
+  {
+    "weight": 1,
+    "word": "self-determination"
+  },
+  {
+    "weight": 1,
+    "word": "sensational"
+  },
+  {
+    "weight": 1,
+    "word": "sense"
+  },
+  {
+    "weight": 1,
+    "word": "of"
+  },
+  {
+    "weight": 1,
+    "word": "humor"
+  },
+  {
+    "weight": 1,
+    "word": "sensible"
+  },
+  {
+    "weight": 1,
+    "word": "sensitive"
+  },
+  {
+    "weight": 1,
+    "word": "sensuous"
+  },
+  {
+    "weight": 1,
+    "word": "serene"
+  },
+  {
+    "weight": 1,
+    "word": "sharing"
+  },
+  {
+    "weight": 1,
+    "word": "sincere"
+  },
+  {
+    "weight": 1,
+    "word": "skilful"
+  },
+  {
+    "weight": 1,
+    "word": "skilled"
+  },
+  {
+    "weight": 1,
+    "word": "smart"
+  },
+  {
+    "weight": 1,
+    "word": "smashing"
+  },
+  {
+    "weight": 1,
+    "word": "smooth"
+  },
+  {
+    "weight": 1,
+    "word": "sociable"
+  },
+  {
+    "weight": 1,
+    "word": "self-consciousness"
+  },
+  {
+    "weight": 1,
+    "word": "solid"
+  },
+  {
+    "weight": 1,
+    "word": "sophisticated"
+  },
+  {
+    "weight": 1,
+    "word": "sparkling"
+  },
+  {
+    "weight": 1,
+    "word": "special"
+  },
+  {
+    "weight": 1,
+    "word": "spectacular"
+  },
+  {
+    "weight": 1,
+    "word": "spiritual"
+  },
+  {
+    "weight": 1,
+    "word": "splendid"
+  },
+  {
+    "weight": 1,
+    "word": "spontaneous"
+  },
+  {
+    "weight": 1,
+    "word": "sporty"
+  },
+  {
+    "weight": 1,
+    "word": "spunky"
+  },
+  {
+    "weight": 1,
+    "word": "stable"
+  },
+  {
+    "weight": 1,
+    "word": "stellar"
+  },
+  {
+    "weight": 1,
+    "word": "strong"
+  },
+  {
+    "weight": 1,
+    "word": "stunning"
+  },
+  {
+    "weight": 1,
+    "word": "stupendous"
+  },
+  {
+    "weight": 1,
+    "word": "successful"
+  },
+  {
+    "weight": 1,
+    "word": "super"
+  },
+  {
+    "weight": 1,
+    "word": "superb"
+  },
+  {
+    "weight": 1,
+    "word": "surprised"
+  },
+  {
+    "weight": 1,
+    "word": "swift"
+  },
+  {
+    "weight": 1,
+    "word": "tactful"
+  },
+  {
+    "weight": 1,
+    "word": "talented"
+  },
+  {
+    "weight": 1,
+    "word": "tenacious"
+  },
+  {
+    "weight": 1,
+    "word": "terrific"
+  },
+  {
+    "weight": 1,
+    "word": "thankful"
+  },
+  {
+    "weight": 1,
+    "word": "thorough"
+  },
+  {
+    "weight": 1,
+    "word": "thoughtful"
+  },
+  {
+    "weight": 1,
+    "word": "thrilling"
+  },
+  {
+    "weight": 1,
+    "word": "thriving"
+  },
+  {
+    "weight": 1,
+    "word": "timely"
+  },
+  {
+    "weight": 1,
+    "word": "tolerant"
+  },
+  {
+    "weight": 1,
+    "word": "traditional"
+  },
+  {
+    "weight": 1,
+    "word": "trust"
+  },
+  {
+    "weight": 1,
+    "word": "trusting"
+  },
+  {
+    "weight": 1,
+    "word": "trustworthy"
+  },
+  {
+    "weight": 1,
+    "word": "truthful"
+  },
+  {
+    "weight": 1,
+    "word": "ultimate"
+  },
+  {
+    "weight": 1,
+    "word": "unbelievable"
+  },
+  {
+    "weight": 1,
+    "word": "unconventional"
+  },
+  {
+    "weight": 1,
+    "word": "understanding"
+  },
+  {
+    "weight": 1,
+    "word": "uninhabited"
+  },
+  {
+    "weight": 1,
+    "word": "unique"
+  },
+  {
+    "weight": 1,
+    "word": "unselfish"
+  },
+  {
+    "weight": 1,
+    "word": "upbeat"
+  },
+  {
+    "weight": 1,
+    "word": "valiant"
+  },
+  {
+    "weight": 1,
+    "word": "valuable"
+  },
+  {
+    "weight": 1,
+    "word": "versatile"
+  },
+  {
+    "weight": 1,
+    "word": "vibrant"
+  },
+  {
+    "weight": 1,
+    "word": "victorious"
+  },
+  {
+    "weight": 1,
+    "word": "vigorous"
+  },
+  {
+    "weight": 1,
+    "word": "vivacious"
+  },
+  {
+    "weight": 1,
+    "word": "vivid"
+  },
+  {
+    "weight": 1,
+    "word": "warm"
+  },
+  {
+    "weight": 1,
+    "word": "wealthy"
+  },
+  {
+    "weight": 1,
+    "word": "well"
+  },
+  {
+    "weight": 1,
+    "word": "whole"
+  },
+  {
+    "weight": 1,
+    "word": "wise"
+  },
+  {
+    "weight": 1,
+    "word": "integrity"
+  },
+  {
+    "weight": 1,
+    "word": "witty"
+  },
+  {
+    "weight": 1,
+    "word": "wonderful"
+  },
+  {
+    "weight": 1,
+    "word": "wondrous"
+  },
+  {
+    "weight": 1,
+    "word": "worthy"
+  },
+  {
+    "weight": 1,
+    "word": "youthful"
+  },
+  {
+    "weight": 1,
+    "word": "zeal"
+  },
+  {
+    "weight": 1,
+    "word": "zest"
+  },
+  {
+    "weight": 1,
+    "word": "veritable"
+  },
+  {
+    "weight": -1,
+    "word": "Abrasive"
+  },
+  {
+    "weight": -1,
+    "word": "Apathetic"
+  },
+  {
+    "weight": -1,
+    "word": "Controlling"
+  },
+  {
+    "weight": -1,
+    "word": "Dishonest"
+  },
+  {
+    "weight": -1,
+    "word": "Impatient"
+  },
+  {
+    "weight": -1,
+    "word": "Anxious"
+  },
+  {
+    "weight": -1,
+    "word": "Betrayed"
+  },
+  {
+    "weight": -1,
+    "word": "Disappointed"
+  },
+  {
+    "weight": -1,
+    "word": "Embarrassed"
+  },
+  {
+    "weight": -1,
+    "word": "Jealous"
+  },
+  {
+    "weight": -1,
+    "word": "Abysmal"
+  },
+  {
+    "weight": -1,
+    "word": "Bad"
+  },
+  {
+    "weight": -1,
+    "word": "Callous"
+  },
+  {
+    "weight": -1,
+    "word": "Corrosive"
+  },
+  {
+    "weight": -1,
+    "word": "Damage"
+  },
+  {
+    "weight": -1,
+    "word": "Despicable"
+  },
+  {
+    "weight": -1,
+    "word": "Don’t"
+  },
+  {
+    "weight": -1,
+    "word": "Enraged"
+  },
+  {
+    "weight": -1,
+    "word": "Fail"
+  },
+  {
+    "weight": -1,
+    "word": "Gawky"
+  },
+  {
+    "weight": -1,
+    "word": "Haggard"
+  },
+  {
+    "weight": -1,
+    "word": "Hurt"
+  },
+  {
+    "weight": -1,
+    "word": "Icky"
+  },
+  {
+    "weight": -1,
+    "word": "Insane"
+  },
+  {
+    "weight": -1,
+    "word": "Jealous"
+  },
+  {
+    "weight": -1,
+    "word": "Lose"
+  },
+  {
+    "weight": -1,
+    "word": "Malicious"
+  },
+  {
+    "weight": -1,
+    "word": "Naive"
+  },
+  {
+    "weight": -1,
+    "word": "Not"
+  },
+  {
+    "weight": -1,
+    "word": "Objectionable"
+  },
+  {
+    "weight": -1,
+    "word": "Pain"
+  },
+  {
+    "weight": -1,
+    "word": "Questionable"
+  },
+  {
+    "weight": -1,
+    "word": "Reject"
+  },
+  {
+    "weight": -1,
+    "word": "Rude"
+  },
+  {
+    "weight": -1,
+    "word": "Sad"
+  },
+  {
+    "weight": -1,
+    "word": "Sinister"
+  },
+  {
+    "weight": -1,
+    "word": "Stuck"
+  },
+  {
+    "weight": -1,
+    "word": "Tense"
+  },
+  {
+    "weight": -1,
+    "word": "Ugly"
+  },
+  {
+    "weight": -1,
+    "word": "Unsightly"
+  },
+  {
+    "weight": -1,
+    "word": "Vice"
+  },
+  {
+    "weight": -1,
+    "word": "Wary"
+  },
+  {
+    "weight": -1,
+    "word": "Yell"
+  },
+  {
+    "weight": -1,
+    "word": "Zero"
+  },
+  {
+    "weight": -1,
+    "word": "Adverse"
+  },
+  {
+    "weight": -1,
+    "word": "Banal"
+  },
+  {
+    "weight": -1,
+    "word": "Can’t"
+  },
+  {
+    "weight": -1,
+    "word": "Corrupt"
+  },
+  {
+    "weight": -1,
+    "word": "Damaging"
+  },
+  {
+    "weight": -1,
+    "word": "Detrimental"
+  },
+  {
+    "weight": -1,
+    "word": "Dreadful"
+  },
+  {
+    "weight": -1,
+    "word": "Eroding"
+  },
+  {
+    "weight": -1,
+    "word": "Faulty"
+  },
+  {
+    "weight": -1,
+    "word": "Ghastly"
+  },
+  {
+    "weight": -1,
+    "word": "Hard"
+  },
+  {
+    "weight": -1,
+    "word": "Hurtful"
+  },
+  {
+    "weight": -1,
+    "word": "Ignorant"
+  },
+  {
+    "weight": -1,
+    "word": "Insidious"
+  },
+  {
+    "weight": -1,
+    "word": "Junky"
+  },
+  {
+    "weight": -1,
+    "word": "Lousy"
+  },
+  {
+    "weight": -1,
+    "word": "Mean"
+  },
+  {
+    "weight": -1,
+    "word": "Nasty"
+  },
+  {
+    "weight": -1,
+    "word": "Noxious"
+  },
+  {
+    "weight": -1,
+    "word": "Odious"
+  },
+  {
+    "weight": -1,
+    "word": "Perturb"
+  },
+  {
+    "weight": -1,
+    "word": "Quirky"
+  },
+  {
+    "weight": -1,
+    "word": "Renege"
+  },
+  {
+    "weight": -1,
+    "word": "Ruthless"
+  },
+  {
+    "weight": -1,
+    "word": "Savage"
+  },
+  {
+    "weight": -1,
+    "word": "Slimy"
+  },
+  {
+    "weight": -1,
+    "word": "Stupid"
+  },
+  {
+    "weight": -1,
+    "word": "Terrible"
+  },
+  {
+    "weight": -1,
+    "word": "Undermine"
+  },
+  {
+    "weight": -1,
+    "word": "Untoward"
+  },
+  {
+    "weight": -1,
+    "word": "Vicious"
+  },
+  {
+    "weight": -1,
+    "word": "Weary"
+  },
+  {
+    "weight": -1,
+    "word": "Yucky"
+  },
+  {
+    "weight": -1,
+    "word": "Alarming"
+  },
+  {
+    "weight": -1,
+    "word": "Barbed"
+  },
+  {
+    "weight": -1,
+    "word": "Clumsy"
+  },
+  {
+    "weight": -1,
+    "word": "Dastardly"
+  },
+  {
+    "weight": -1,
+    "word": "Dirty"
+  },
+  {
+    "weight": -1,
+    "word": "Dreary"
+  },
+  {
+    "weight": -1,
+    "word": "Evil"
+  },
+  {
+    "weight": -1,
+    "word": "Fear"
+  },
+  {
+    "weight": -1,
+    "word": "Grave"
+  },
+  {
+    "weight": -1,
+    "word": "Hard-hearted"
+  },
+  {
+    "weight": -1,
+    "word": "Ignore"
+  },
+  {
+    "weight": -1,
+    "word": "Injure"
+  },
+  {
+    "weight": -1,
+    "word": "Insipid"
+  },
+  {
+    "weight": -1,
+    "word": "Lumpy"
+  },
+  {
+    "weight": -1,
+    "word": "Menacing"
+  },
+  {
+    "weight": -1,
+    "word": "Naughty"
+  },
+  {
+    "weight": -1,
+    "word": "None"
+  },
+  {
+    "weight": -1,
+    "word": "Offensive"
+  },
+  {
+    "weight": -1,
+    "word": "Pessimistic"
+  },
+  {
+    "weight": -1,
+    "word": "Quit"
+  },
+  {
+    "weight": -1,
+    "word": "Repellant"
+  },
+  {
+    "weight": -1,
+    "word": "Scare"
+  },
+  {
+    "weight": -1,
+    "word": "Smelly"
+  },
+  {
+    "weight": -1,
+    "word": "Substandard"
+  },
+  {
+    "weight": -1,
+    "word": "Terrifying"
+  },
+  {
+    "weight": -1,
+    "word": "Unfair"
+  },
+  {
+    "weight": -1,
+    "word": "Unwanted"
+  },
+  {
+    "weight": -1,
+    "word": "Vile"
+  },
+  {
+    "weight": -1,
+    "word": "Wicked"
+  },
+  {
+    "weight": -1,
+    "word": "Angry"
+  },
+  {
+    "weight": -1,
+    "word": "Belligerent"
+  },
+  {
+    "weight": -1,
+    "word": "Coarse"
+  },
+  {
+    "weight": -1,
+    "word": "Crazy"
+  },
+  {
+    "weight": -1,
+    "word": "Dead"
+  },
+  {
+    "weight": -1,
+    "word": "Disease"
+  },
+  {
+    "weight": -1,
+    "word": "Feeble"
+  },
+  {
+    "weight": -1,
+    "word": "Greed"
+  },
+  {
+    "weight": -1,
+    "word": "Harmful"
+  },
+  {
+    "weight": -1,
+    "word": "Ill"
+  },
+  {
+    "weight": -1,
+    "word": "Injurious"
+  },
+  {
+    "weight": -1,
+    "word": "Messy"
+  },
+  {
+    "weight": -1,
+    "word": "Negate"
+  },
+  {
+    "weight": -1,
+    "word": "No"
+  },
+  {
+    "weight": -1,
+    "word": "one"
+  },
+  {
+    "weight": -1,
+    "word": "Old"
+  },
+  {
+    "weight": -1,
+    "word": "Petty"
+  },
+  {
+    "weight": -1,
+    "word": "Reptilian"
+  },
+  {
+    "weight": -1,
+    "word": "Scary"
+  },
+  {
+    "weight": -1,
+    "word": "Sobbing"
+  },
+  {
+    "weight": -1,
+    "word": "Suspect"
+  },
+  {
+    "weight": -1,
+    "word": "Threatening"
+  },
+  {
+    "weight": -1,
+    "word": "Unfavorable"
+  },
+  {
+    "weight": -1,
+    "word": "Unwelcome"
+  },
+  {
+    "weight": -1,
+    "word": "Villainous"
+  },
+  {
+    "weight": -1,
+    "word": "Woeful"
+  },
+  {
+    "weight": -1,
+    "word": "Annoy"
+  },
+  {
+    "weight": -1,
+    "word": "Bemoan"
+  },
+  {
+    "weight": -1,
+    "word": "Cold"
+  },
+  {
+    "weight": -1,
+    "word": "Creepy"
+  },
+  {
+    "weight": -1,
+    "word": "Decaying"
+  },
+  {
+    "weight": -1,
+    "word": "Disgusting"
+  },
+  {
+    "weight": -1,
+    "word": "Fight"
+  },
+  {
+    "weight": -1,
+    "word": "Grim"
+  },
+  {
+    "weight": -1,
+    "word": "Hate"
+  },
+  {
+    "weight": -1,
+    "word": "Immature"
+  },
+  {
+    "weight": -1,
+    "word": "Misshapen"
+  },
+  {
+    "weight": -1,
+    "word": "Negative"
+  },
+  {
+    "weight": -1,
+    "word": "Nothing"
+  },
+  {
+    "weight": -1,
+    "word": "Oppressive"
+  },
+  {
+    "weight": -1,
+    "word": "Plain"
+  },
+  {
+    "weight": -1,
+    "word": "Repugnant"
+  },
+  {
+    "weight": -1,
+    "word": "Scream"
+  },
+  {
+    "weight": -1,
+    "word": "Sorry"
+  },
+  {
+    "weight": -1,
+    "word": "Suspicious"
+  },
+  {
+    "weight": -1,
+    "word": "Unhappy"
+  },
+  {
+    "weight": -1,
+    "word": "Unwholesome"
+  },
+  {
+    "weight": -1,
+    "word": "Vindictive"
+  },
+  {
+    "weight": -1,
+    "word": "Worthless"
+  },
+  {
+    "weight": -1,
+    "word": "Anxious"
+  },
+  {
+    "weight": -1,
+    "word": "Beneath"
+  },
+  {
+    "weight": -1,
+    "word": "Cold-hearted"
+  },
+  {
+    "weight": -1,
+    "word": "Criminal"
+  },
+  {
+    "weight": -1,
+    "word": "Deformed"
+  },
+  {
+    "weight": -1,
+    "word": "Disheveled"
+  },
+  {
+    "weight": -1,
+    "word": "Filthy"
+  },
+  {
+    "weight": -1,
+    "word": "Grimace"
+  },
+  {
+    "weight": -1,
+    "word": "Hideous"
+  },
+  {
+    "weight": -1,
+    "word": "Imperfect"
+  },
+  {
+    "weight": -1,
+    "word": "Missing"
+  },
+  {
+    "weight": -1,
+    "word": "Never"
+  },
+  {
+    "weight": -1,
+    "word": "Neither"
+  },
+  {
+    "weight": -1,
+    "word": "Poisonous"
+  },
+  {
+    "weight": -1,
+    "word": "Repulsive"
+  },
+  {
+    "weight": -1,
+    "word": "Severe"
+  },
+  {
+    "weight": -1,
+    "word": "Spiteful"
+  },
+  {
+    "weight": -1,
+    "word": "Unhealthy"
+  },
+  {
+    "weight": -1,
+    "word": "Unwieldy"
+  },
+  {
+    "weight": -1,
+    "word": "Wound"
+  },
+  {
+    "weight": -1,
+    "word": "Apathy"
+  },
+  {
+    "weight": -1,
+    "word": "Boring"
+  },
+  {
+    "weight": -1,
+    "word": "Collapse"
+  },
+  {
+    "weight": -1,
+    "word": "Cruel"
+  },
+  {
+    "weight": -1,
+    "word": "Deny"
+  },
+  {
+    "weight": -1,
+    "word": "Dishonest"
+  },
+  {
+    "weight": -1,
+    "word": "Foul"
+  },
+  {
+    "weight": -1,
+    "word": "Gross"
+  },
+  {
+    "weight": -1,
+    "word": "Homely"
+  },
+  {
+    "weight": -1,
+    "word": "Impossible"
+  },
+  {
+    "weight": -1,
+    "word": "Misunderstood"
+  },
+  {
+    "weight": -1,
+    "word": "No"
+  },
+  {
+    "weight": -1,
+    "word": "Nowhere"
+  },
+  {
+    "weight": -1,
+    "word": "Poor"
+  },
+  {
+    "weight": -1,
+    "word": "Revenge"
+  },
+  {
+    "weight": -1,
+    "word": "Shocking"
+  },
+  {
+    "weight": -1,
+    "word": "Sticky"
+  },
+  {
+    "weight": -1,
+    "word": "Unjust"
+  },
+  {
+    "weight": -1,
+    "word": "Unwise"
+  },
+  {
+    "weight": -1,
+    "word": "Appalling"
+  },
+  {
+    "weight": -1,
+    "word": "Broken"
+  },
+  {
+    "weight": -1,
+    "word": "Confused"
+  },
+  {
+    "weight": -1,
+    "word": "Cry"
+  },
+  {
+    "weight": -1,
+    "word": "Deplorable"
+  },
+  {
+    "weight": -1,
+    "word": "Dishonorable"
+  },
+  {
+    "weight": -1,
+    "word": "Frighten"
+  },
+  {
+    "weight": -1,
+    "word": "Grotesque"
+  },
+  {
+    "weight": -1,
+    "word": "Horrendous"
+  },
+  {
+    "weight": -1,
+    "word": "Inane"
+  },
+  {
+    "weight": -1,
+    "word": "Moan"
+  },
+  {
+    "weight": -1,
+    "word": "Nobody"
+  },
+  {
+    "weight": -1,
+    "word": "Prejudice"
+  },
+  {
+    "weight": -1,
+    "word": "Revolting"
+  },
+  {
+    "weight": -1,
+    "word": "Shoddy"
+  },
+  {
+    "weight": -1,
+    "word": "Stinky"
+  },
+  {
+    "weight": -1,
+    "word": "Unlucky"
+  },
+  {
+    "weight": -1,
+    "word": "Upset"
+  },
+  {
+    "weight": -1,
+    "word": "Atrocious"
+  },
+  {
+    "weight": -1,
+    "word": "Contrary"
+  },
+  {
+    "weight": -1,
+    "word": "Cutting"
+  },
+  {
+    "weight": -1,
+    "word": "Depressed"
+  },
+  {
+    "weight": -1,
+    "word": "Dismal"
+  },
+  {
+    "weight": -1,
+    "word": "Frightful"
+  },
+  {
+    "weight": -1,
+    "word": "Gruesome"
+  },
+  {
+    "weight": -1,
+    "word": "Horrible"
+  },
+  {
+    "weight": -1,
+    "word": "Inelegant"
+  },
+  {
+    "weight": -1,
+    "word": "Moldy"
+  },
+  {
+    "weight": -1,
+    "word": "Nondescript"
+  },
+  {
+    "weight": -1,
+    "word": "Rocky"
+  },
+  {
+    "weight": -1,
+    "word": "Sick"
+  },
+  {
+    "weight": -1,
+    "word": "Stormy"
+  },
+  {
+    "weight": -1,
+    "word": "Unpleasant"
+  },
+  {
+    "weight": -1,
+    "word": "Awful"
+  },
+  {
+    "weight": -1,
+    "word": "Contradictory"
+  },
+  {
+    "weight": -1,
+    "word": "Deprived"
+  },
+  {
+    "weight": -1,
+    "word": "Distress"
+  },
+  {
+    "weight": -1,
+    "word": "Guilty"
+  },
+  {
+    "weight": -1,
+    "word": "Hostile"
+  },
+  {
+    "weight": -1,
+    "word": "Infernal"
+  },
+  {
+    "weight": -1,
+    "word": "Monstrous"
+  },
+  {
+    "weight": -1,
+    "word": "Nonsense"
+  },
+  {
+    "weight": -1,
+    "word": "Rotten"
+  },
+  {
+    "weight": -1,
+    "word": "Sickening"
+  },
+  {
+    "weight": -1,
+    "word": "Stressful"
+  },
+  {
+    "weight": -1,
+    "word": "Unsatisfactory"
+  }
+]
